@@ -21,5 +21,5 @@ Here's the project description/instructions for this idea (based on the 'Predict
     - _I think I might also try a couple of simple jailbreaks for the QA and agent versions and see if the agent version's protections are less robust_
 
 
-_Talk about BrowserART and the LW post about safety techniques not transferring to the agent setting_
+_Talk about BrowserART and the LW post about [safety techniques not transferring to the agent setting](https://www.lesswrong.com/posts/ZoFxTqWRBkyanonyb/current-safety-training-techniques-do-not-fully-transfer-to)_
 
